@@ -1,6 +1,6 @@
 {
   "name": "@giantcz/component-cursor-distance",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Gia component getting distance of cursor from element center.",
   "main": "lib/index.js",
   "private": false,
@@ -14,11 +14,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/giantcz/component-cursor-distance"
   },
   "keywords": [],
   "dependencies": {
-    "babel-regenerator-runtime": "^6.5.0",
     "gia": "0.0.7",
     "lodash": "^4.17.10"
   },
